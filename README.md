@@ -1,6 +1,7 @@
 # Business-Data-Science
 
 Language(s) Used: SQL
+
 See .docx for Final Projects; for SQL skills, refer to .sql documents.
 
 Course Objectives:
