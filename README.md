@@ -1,7 +1,7 @@
 # Business-Data-Science
 
 Language(s) Used: SQL
-See .docx for Final Projects. For SQL skills, refer to .SQL documents.
+See .docx for Final Projects; for SQL skills, refer to .sql documents.
 
 Course Objectives:
 - Employ data science methodology to gain business insights from real world data to support effective decision-making
